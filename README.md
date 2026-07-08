@@ -13,7 +13,7 @@ A hands-on repository dedicated to developing data analysis, data cleaning, and 
 ## 📈 Project Objectives & Roadmap
 This repository tracks the step-by-step lifecycle of a typical data workflow:
 
-- [<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fe509335-7c86-4b8e-96cf-6565fa617bba" />] **Environment Setup & API/Dataset Integration** 
+- [✅] **Environment Setup & API/Dataset Integration** 
 - [ ] **Data Cleaning & Preprocessing:** Handling missing values, data type formatting, and anomaly detection. (In progess)
 - [ ] **Exploratory Data Analysis (EDA):** Identifying underlying patterns, distributions, and correlations within the dataset.
 - [ ] **Data Visualization:** Crafting clean, meaningful charts to communicate actionable insights.
